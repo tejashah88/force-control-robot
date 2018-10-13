@@ -1,0 +1,1 @@
+java -Djava.library.path=LMVClient_lib/native/x64 -d64 -jar LMVClient.jar
